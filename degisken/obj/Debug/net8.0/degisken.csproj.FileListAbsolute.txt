@@ -1,0 +1,14 @@
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.AssemblyInfoInputs.cache
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.AssemblyInfo.cs
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.csproj.CoreCompileInputs.cache
+D:\Coding\patika\c#-patika\degisken\bin\Debug\net8.0\degisken.exe
+D:\Coding\patika\c#-patika\degisken\bin\Debug\net8.0\degisken.deps.json
+D:\Coding\patika\c#-patika\degisken\bin\Debug\net8.0\degisken.runtimeconfig.json
+D:\Coding\patika\c#-patika\degisken\bin\Debug\net8.0\degisken.dll
+D:\Coding\patika\c#-patika\degisken\bin\Debug\net8.0\degisken.pdb
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.dll
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\refint\degisken.dll
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.pdb
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\degisken.genruntimeconfig.cache
+D:\Coding\patika\c#-patika\degisken\obj\Debug\net8.0\ref\degisken.dll
